@@ -5,16 +5,23 @@ CS575 Final Project, Investigating Gender Bias in Pretrained Korean Word Embeddi
 
 ## 1. Overview of project
 The gender debiasing methods that used in our projects are based on the Yang and Feng(2019).
+
 We tried to measure gender bias in pretrained Korean word embeddings and checked whether HSR methods works well on Korean dataset.
+
 We made 3 Korean word lists for our project, and proved that our dataset was powerful to measure gender bias in Korean word embeddings compared Klue-Bert vocabulary set.
+
 You can follow our experiments by using the codes in 'Usage' section.
 
 ## 2. Datasets
 Ours
+
     Gender-definition word set
     Non-gender-definition word set
     Profession word set
-Klue-Bert vocabulary set
+
+Download
+
+    Klue-Bert vocabulary set
 
 ## 3. Installation
 Install transformers
