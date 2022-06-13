@@ -15,13 +15,13 @@ You can follow our experiments by using the codes in 'Usage' section.
 ## 2. Datasets
 Ours
 
-    Gender-definition word set
-    Non-gender-definition word set
-    Profession word set
+    Gender-definition word set -> male.txt, female.txt
+    Non-gender-definition word set -> gender_neutral.txt
+    Profession word set -> professions.txt
 
 Download(https://huggingface.co/klue/bert-base/blob/main/vocab.txt)
 
-    Klue-Bert vocabulary set
+    Klue-Bert vocabulary set -> vocab.txt
 
 ## 3. Installation
 Install transformers
